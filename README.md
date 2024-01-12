@@ -1,33 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">
 <!-- 
 
-<a href="https://www.linkedin.com/in/hemant-thakkar-45a009280/">
-  <img align="left" alt="Hemant Thakkar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-<a href="https://santosharron.epicprogrammer.org/">
-  <img align="left" alt="Santosh Arron's Portfolio" width="22px" src="https://epicprogrammerassets.netlify.app/Assets/globe-grid.svg" />
-</a> -->
-
-
-<a href="https://youtube.com/@epicprogrammer">
-  <img align="left" alt="Epic Programmer | YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" />
-</a>
-
-
-<a href="https://twitter.com/santosh_arron">
-  <img align="left" alt="Epic Programmer | YouTube" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" />
-</a>
-
-
-<a href="https://www.linkedin.com/in/santoshvp/">
-  <img align="left" alt="Epic Programmer | YouTube" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-</a>
-
-<p align=left> <img src=https://komarev.com/ghpvc/?username=santosharron alt=santosharron /> </p>
-
-<br />
-
 
 Hi, I'm [Santosh Arron](https://santosharron.epicprogrammer.com/), a passionate self-taught Full Stack developer and a freelance software engineer from Chennai, Tamil Nadu. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. In addition, I take great care in the experience, architecture, and code quality of the things I build.
 
